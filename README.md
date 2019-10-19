@@ -86,3 +86,4 @@ as you can and star this project to help as many people in opensource as you can
 -[Conor Lyness](https://github.com/conorlyness)
 - [Sai Manasa Pappu](https://github.com/SaiManasaPappu)
 -[Aryan Garg](https://github.com/aaryangarg8)
+- [Giancarlo David] (https://github.com/giancarlo-david)
