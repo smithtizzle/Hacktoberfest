@@ -43,6 +43,7 @@ as you can and star this project to help as many people in opensource as you can
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ### Contributors
+-[Abhishek amrute](https://github.com/ABHISHEK-AMRUTE)
 -[legendphoenix0](https://github.com/legendphoenix0)
 - [Santhosh M](https://github.com/santhosh15lm)
 - [Nischal Kanishk](https://github.com/NischalKanishk)
